@@ -8,10 +8,10 @@ title:  About
 ∑¿÷π ß“‰
 
 ### About me ###{: class="vlist"}
-I am Joyuan
-weibo:[weibo.com/qianzhaoyuan](http://weibo.com/qianzhaoyuan).
-github:[github.com/Joyuan](https://github.com/Joyuan).
-twitter:[twitter.com/qianzhaoyuan](https://twitter.com/qianzhaoyuan).
-facebook:[]().
+I am Joyuan</br>
+weibo:[weibo.com/qianzhaoyuan](http://weibo.com/qianzhaoyuan).</br>
+github:[github.com/Joyuan](https://github.com/Joyuan).</br>
+twitter:[twitter.com/qianzhaoyuan](https://twitter.com/qianzhaoyuan).</br>
+facebook:[facebook.com/qianzhaoyuan](https://www.facebook.com/qianzhaoyuan).</br>
 
 
