@@ -5,8 +5,10 @@ title:  About
 
 ### About me ###{: class="vlist"}
 
-我是小钱<br/><br/>
-码农，正在努力娶媳妇~<br/><br/>
+我是小钱<br/>
+ <br/>
+码农，正在努力娶媳妇~<br/>
+ <br/>
 e-mail:[qianzhaoyuan@gmail.com](qianzhaoyuan@gmail.com).<br/><br/>
 weibo:[weibo.com/qianzhaoyuan](http://weibo.com/qianzhaoyuan).<br/><br/>
 github:[github.com/Joyuan](https://github.com/Joyuan).<br/><br/>
