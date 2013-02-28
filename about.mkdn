@@ -4,15 +4,17 @@ title:  About
 ---
 
 ### About me ###{: class="vlist"}
-我是小钱<br/>
-码农，正在努力娶媳妇~<br/>
-weibo:[weibo.com/qianzhaoyuan](http://weibo.com/qianzhaoyuan).<br/>
-github:[github.com/Joyuan](https://github.com/Joyuan).<br/>
-twitter:[twitter.com/qianzhaoyuan](https://twitter.com/qianzhaoyuan).<br/>
-facebook:[facebook.com/qianzhaoyuan](https://www.facebook.com/qianzhaoyuan).<br/>
+
+我是小钱<br/><br/>
+码农，正在努力娶媳妇~<br/><br/>
+e-mail:[qianzhaoyuan@gmail.com](qianzhaoyuan@gmail.com).<br/><br/>
+weibo:[weibo.com/qianzhaoyuan](http://weibo.com/qianzhaoyuan).<br/><br/>
+github:[github.com/Joyuan](https://github.com/Joyuan).<br/><br/>
+twitter:[twitter.com/qianzhaoyuan](https://twitter.com/qianzhaoyuan).<br/><br/>
+facebook:[facebook.com/qianzhaoyuan](https://www.facebook.com/qianzhaoyuan).<br/><br/>
 
 
 ### About her ###{: class="vlist"}
 
-她是彤彤
+她是彤彤<br/><br/>
 
