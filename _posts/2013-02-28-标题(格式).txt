@@ -1,6 +1,11 @@
 ---
-layout: post
+layout: 
+post
 title: 标题
+
 tags: [Android, ios]
+
 ---
 
+
+文件后缀  .mkdn
