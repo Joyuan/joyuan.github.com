@@ -4,7 +4,7 @@ title:  About
 ---
 
 ### About me ###{: class="vlist"}
-I am Joyuan<br/>
+我是小钱<br/>
 码农，正在努力娶媳妇~<br/>
 weibo:[weibo.com/qianzhaoyuan](http://weibo.com/qianzhaoyuan).<br/>
 github:[github.com/Joyuan](https://github.com/Joyuan).<br/>
@@ -14,5 +14,5 @@ facebook:[facebook.com/qianzhaoyuan](https://www.facebook.com/qianzhaoyuan).<br/
 
 ### About her ###{: class="vlist"}
 
-Her is 彤彤~
+她是彤彤
 
