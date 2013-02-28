@@ -3,10 +3,6 @@ layout: default
 title:  About
 ---
 
-### This site ###{: class="vlist"}
-
-·ÀÖ¹Ê§Òä
-
 ### About me ###{: class="vlist"}
 I am Joyuan<br/>
 ÂëÅ©£¬ÕıÔÚÅ¬Á¦È¢Ï±¸¾~<br/>
@@ -15,4 +11,8 @@ github:[github.com/Joyuan](https://github.com/Joyuan).<br/>
 twitter:[twitter.com/qianzhaoyuan](https://twitter.com/qianzhaoyuan).<br/>
 facebook:[facebook.com/qianzhaoyuan](https://www.facebook.com/qianzhaoyuan).<br/>
 
+
+### About her ###{: class="vlist"}
+
+Her is Í®Í®~
 
