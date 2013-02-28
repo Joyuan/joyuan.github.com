@@ -9,12 +9,12 @@ title:  About
  <br/>
 码农，正在努力娶媳妇~<br/>
  <br/>
-- e-mail:[qianzhaoyuan@gmail.com](qianzhaoyuan@gmail.com).<br/><br/>
-- weibo:[weibo.com/qianzhaoyuan](http://weibo.com/qianzhaoyuan).<br/><br/>
-- github:[github.com/Joyuan](https://github.com/Joyuan).<br/><br/>
-- douban:[douban.com/people/qianzhaoyuan](http://www.douban.com/people/qianzhaoyuan/).
-- twitter:[twitter.com/qianzhaoyuan](https://twitter.com/qianzhaoyuan).<br/><br/>
-- facebook:[facebook.com/qianzhaoyuan](https://www.facebook.com/qianzhaoyuan).<br/><br/>
+- e-mail: [qianzhaoyuan@gmail.com](qianzhaoyuan@gmail.com).<br/><br/>
+- weibo: [weibo.com/qianzhaoyuan](http://weibo.com/qianzhaoyuan).<br/><br/>
+- github: [github.com/Joyuan](https://github.com/Joyuan).<br/><br/>
+- douban: [douban.com/people/qianzhaoyuan](http://www.douban.com/people/qianzhaoyuan/).<br/>
+- twitter: [twitter.com/qianzhaoyuan](https://twitter.com/qianzhaoyuan).<br/><br/>
+- facebook: [facebook.com/qianzhaoyuan](https://www.facebook.com/qianzhaoyuan).<br/><br/>
 
 
 ### About her ###{: class="vlist"}
