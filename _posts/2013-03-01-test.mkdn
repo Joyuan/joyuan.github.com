@@ -5,7 +5,7 @@ tags: [Android]
 ---
 
 {% highlight java %}
-	private BroadcastReceiver homeReceiver = new BroadcastReceiver() {
+private BroadcastReceiver homeReceiver = new BroadcastReceiver() {
 		@Override
 		public void onReceive(Context context, Intent intent) {
 			String action = intent.getAction();  
@@ -17,5 +17,5 @@ tags: [Android]
 				System.exit(0);
 	        }
 		}
-	};
+};
 {% endhighlight %}
