@@ -49,7 +49,7 @@ jekyll bootstrap的document也写的很详细：[点击这里查看](http://jeky
 对于需要经常贴代码来说明问题的程序员来说，语法高亮的功能不能缺少，使用pygments来做jekyll的高亮显示吧，[jekyll wiki](https://github.com/mojombo/jekyll/wiki/Liquid-Extensions)里也有说明。   
 *安装*:还在刚才的jekyll的安装wiki页面可以找到
 {% highlight ruby %}
-brew install python
+	brew install python
 # export PATH="/usr/local/share/python:${PATH}"
 easy_install pip
 pip install --upgrade distribute
