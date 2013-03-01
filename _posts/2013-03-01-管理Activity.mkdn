@@ -6,7 +6,7 @@ tags: [life]
 
  
 1.新建一个类<br/>
-{% highlight java %}
+{% highlight cpp %}
 public class AppManager {
       
       private static Stack<Activity> activityStack;
