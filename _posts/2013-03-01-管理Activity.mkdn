@@ -6,7 +6,7 @@ tags: [Android]
 
 
 ###1.新建一个类
-{% highlight java %}
+
 	public class AppManager {
       private static Stack<Activity> activityStack;
       private static AppManager instance ;
@@ -86,7 +86,7 @@ tags: [Android]
             } catch (Exception e) { }
       }
 }
-{% endhighlight %}
+
 ###2.创建一个基本Activity
 
 	public class BaseActivity extends Activity{
