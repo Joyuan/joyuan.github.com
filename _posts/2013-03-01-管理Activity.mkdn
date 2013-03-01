@@ -5,7 +5,7 @@ tags: [life]
 ---
 
  
-1.新建一个类
+1.新建一个类<br/>
 public class AppManager {
       
       private static Stack<Activity> activityStack;
@@ -86,7 +86,7 @@ public class AppManager {
             } catch (Exception e) { }
       }
 }
-2.创建一个基本Activity
+2.创建一个基本Activity<br/>
 public class BaseActivity extends Activity{
 
       @Override
@@ -102,6 +102,6 @@ public class BaseActivity extends Activity{
             AppManager. getAppManager().finishActivity(this);
       }    
 }
-3.所有的Activity都继承BaseActivity
+3.所有的Activity都继承BaseActivity<br/>
 AppManager. getAppManager().AppExit(cont);
 
