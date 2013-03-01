@@ -5,17 +5,5 @@ tags: [Android]
 ---
 
 {% highlight java %}
-private BroadcastReceiver homeReceiver = new BroadcastReceiver() {
-@Override
-public void onReceive(Context context, Intent intent) {
-String action = intent.getAction();  
-if (action.equals(Intent.ACTION_CLOSE_SYSTEM_DIALOGS)) { 
-stopService(intentService);
-saveUserInfo();
-AppManager.getAppManager().AppExit(LoginActivity.this);
-finish();
-System.exit(0);
-}
-}
-};
+	private String name;
 {% endhighlight %}
