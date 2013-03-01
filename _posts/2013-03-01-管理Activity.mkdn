@@ -6,7 +6,7 @@ tags: [Android]
 
 
 ###1.新建一个类
-{% highlight java %}	
+	
 public class AppManager {
 
       private static Stack<Activity> activityStack;
@@ -87,9 +87,9 @@ public class AppManager {
             } catch (Exception e) { }
       }
 }
-{% endhighlight %}
+
 ###2.创建一个基本Activity
-{% highlight java %}
+
 public class BaseActivity extends Activity{
       @Override
       protected void onCreate(Bundle savedInstanceState) {
@@ -104,7 +104,7 @@ public class BaseActivity extends Activity{
             AppManager. getAppManager().finishActivity(this);
       }    
 }
-{% endhighlight %}
+
 ###3.所有的Activity都继承BaseActivity
 {% highlight java %}
 AppManager. getAppManager().AppExit(cont);
