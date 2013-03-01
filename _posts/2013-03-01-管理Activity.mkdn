@@ -6,7 +6,7 @@ tags: [Android]
 
 
 ###1.新建一个类
-
+	{% highlight php %}
 	public class AppManager {
       private static Stack<Activity> activityStack;
       private static AppManager instance ;
@@ -85,8 +85,8 @@ tags: [Android]
                   System. exit(0);
             } catch (Exception e) { }
       }
-}
-
+ }
+	{% endhighlight %}
 ###2.创建一个基本Activity
 
 	public class BaseActivity extends Activity{
@@ -102,7 +102,7 @@ tags: [Android]
              //结束Activity&从堆栈中移除
             AppManager. getAppManager().finishActivity(this);
       }    
-}
+ }
 
 ###3.所有的Activity都继承BaseActivity
 
