@@ -14,10 +14,10 @@ pygments: true
 title : Go!
 tagline: Site Tagline
 author :
-  name : Liu qi
-  email : keyboarder5211@gmail.com
-  github : liuqi1024
-  twitter : keyboarder
+  name : Joyuan
+  email : qianzhaoyuan@gmail.com
+  github : Joyuan
+  twitter : Joyuan
   feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
