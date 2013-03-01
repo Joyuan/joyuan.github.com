@@ -89,8 +89,8 @@ public class AppManager {
 }
 {% endhighlight %}
 ###2.创建一个基本Activity
-
-	public class BaseActivity extends Activity{
+{% highlight java %}
+public class BaseActivity extends Activity{
       @Override
       protected void onCreate(Bundle savedInstanceState) {
              super.onCreate(savedInstanceState);         
@@ -103,9 +103,9 @@ public class AppManager {
              //结束Activity&从堆栈中移除
             AppManager. getAppManager().finishActivity(this);
       }    
- }
-
+}
+{% endhighlight %}
 ###3.所有的Activity都继承BaseActivity
-
-	AppManager. getAppManager().AppExit(cont);
-
+{% highlight java %}
+AppManager. getAppManager().AppExit(cont);
+{% endhighlight %}
