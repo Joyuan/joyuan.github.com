@@ -7,8 +7,7 @@ tags: [Android]
  
 ###1.新建一个类
 
-public class AppManager {
-      
+	public class AppManager {
       private static Stack<Activity> activityStack;
       private static AppManager instance ;
       private AppManager(){}
@@ -90,8 +89,7 @@ public class AppManager {
 
 ###2.创建一个基本Activity
 
-public class BaseActivity extends Activity{
-
+	public class BaseActivity extends Activity{
       @Override
       protected void onCreate(Bundle savedInstanceState) {
              super.onCreate(savedInstanceState);         
@@ -108,5 +106,5 @@ public class BaseActivity extends Activity{
 
 ###3.所有的Activity都继承BaseActivity
 
-AppManager. getAppManager().AppExit(cont);
+	AppManager. getAppManager().AppExit(cont);
 
