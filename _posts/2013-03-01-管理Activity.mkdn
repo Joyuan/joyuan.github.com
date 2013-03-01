@@ -6,7 +6,7 @@ tags: [life]
 
  
 1.新建一个类<br/>
-
+{% highlight java %}
 public class AppManager {
       
       private static Stack<Activity> activityStack;
@@ -87,6 +87,7 @@ public class AppManager {
             } catch (Exception e) { }
       }
 }
+{% endhighlight %}
 2.创建一个基本Activity<br/>
 
 public class BaseActivity extends Activity{
