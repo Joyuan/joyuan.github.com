@@ -1,8 +1,0 @@
-layout: post
-title: "test from vim"
-summary: "I wrote this from vim"
-category: life
-tags: [life, poem]
----
-{% include JB/setup %}
-test from vim~
