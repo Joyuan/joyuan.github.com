@@ -7,7 +7,7 @@ tags: android
 1.先去https://android.googlesource.com/右下角点txt，保存一份txt文件。重命名为1.txt，放到c盘根目录下。 
 
 2.运行程序
-```java
+{% highlight java %}
 public class git {  
   
     public static void main(String[] args) {  
@@ -31,7 +31,7 @@ public class git {
                   }  
             }  
     }  
-```
+{% endhighlight %}
 
 将打印出来的内容保存成repourl.txt 
 
