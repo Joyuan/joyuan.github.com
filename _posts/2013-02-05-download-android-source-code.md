@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Git rebase小计(转)
-tags: git
+title: 批量下载Android源代码
+tags: android
 ---
 
 1.先去https://android.googlesource.com/右下角点txt，保存一份txt文件。重命名为1.txt，放到c盘根目录下。 
