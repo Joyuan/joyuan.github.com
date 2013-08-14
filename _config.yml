@@ -6,31 +6,31 @@ paginate:         4
 #permalink: /:year/:month/:day/:title
 permalink:        /post/:title.html
 
-title:            Henter
+title:            Joyuan
 url:              
-prod_url:         http://henter.me
+prod_url:         http://qianzhaoyuan.com
 feed:             atom.xml
 author:
-    name:         Henter
-    email:        henter@henter.me
+    name:         Joyuan
+    email:        qianzhaoyuan@gmail.com
 
 follow:
-    email:        henter@henter.me
-    github:       https://github.com/henter
-    twitter:      https://www.twitter.com/henterchow
-    google:       https://plus.google.com/107483619032085919305
-    facebook:     https://facebook.com/henterchow
-    weibo:     	  http://weibo.com/henter
+    email:        qianzhaoyuan@gmail.com
+    github:       https://github.com/Joyuan
+    twitter:      https://www.twitter.com/qianzhaoyuan
+    google:       https://plus.google.com/
+    facebook:     https://facebook.com/qianzhaoyuan
+    weibo:     	  http://weibo.com/qianzhaoyuan
 
 
 indexContent:     true
 
 
-keywords:         "henter, henter个人博客"
+keywords:         "Joyuan, Joyuan个人博客"
 description:      "Henter's personal site, focus on the web."
 
-blogName:         Henter
-blogDesc:         RD at <a href="http://zuo.com/@henter" target="_blank">zuo.com</a><br />Shanghai, China
+blogName:         Joyuan
+blogDesc:         自我介绍
 favicon:          favicon.ico
 theme:            henter-diandian
 
