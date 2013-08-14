@@ -6,36 +6,36 @@ paginate:         4
 #permalink: /:year/:month/:day/:title
 permalink:        /post/:title.html
 
-title:            Joyuan
+title:            Henter
 url:              
-prod_url:         http://qianzhaoyuan.com
+prod_url:         http://henter.me
 feed:             atom.xml
 author:
-    name:         Joyuan
-    email:        qianzhaoyuan@gmail.com
+    name:         Henter
+    email:        henter@henter.me
 
 follow:
-    email:        qianzhaoyuan@gmail.com
-    github:       https://github.com/Joyuan
-    twitter:      https://www.twitter.com/qianzhaoyuan
-    google:       https://plus.google.com/
-    facebook:     https://facebook.com/qianzhaoyuan
-    weibo:     	  http://weibo.com/qianzhaoyuan
+    email:        henter@henter.me
+    github:       https://github.com/henter
+    twitter:      https://www.twitter.com/henterchow
+    google:       https://plus.google.com/107483619032085919305
+    facebook:     https://facebook.com/henterchow
+    weibo:     	  http://weibo.com/henter
 
 
 indexContent:     true
 
 
-keywords:         "Joyuan, Joyuan个人博客"
-description:      "Joyuan's personal site, focus on the web."
+keywords:         "henter, henter个人博客"
+description:      "Henter's personal site, focus on the web."
 
-blogName:         Joyuan
-blogDesc:         电线杆般的身材却永远不会放电</br>超级想长胖，努力20多载未果</br>理想体重120</br>帆布鞋控，以至于穿了运动鞋不会走路</br>穿帆布鞋总不穿袜子</br>轻微分类整理症</br>偶尔文艺范儿</br>但誓死不做文艺青年</br>最爱低头压马路</br>背单肩包总会滑下去</br>侧躺着睡觉总支撑不住</br>被不明真相群众称为电脑高手</br>
+blogName:         Henter
+blogDesc:         RD at <a href="http://zuo.com/@henter" target="_blank">zuo.com</a><br />Shanghai, China
 favicon:          favicon.ico
-theme:            Joyuan
+theme:            henter-diandian
 
-disqus:           Joyuan
+disqus:           henter
 
-copyright:        Copyright © 2002-2013 Joyuan All rights reserved.
+copyright:        Copyright © 2008-2013 Henter All rights reserved.
 
 music:            http://a.libdd.com/farm1/19/53EAEE74712880DBF40B0A7915561C13.mp3
