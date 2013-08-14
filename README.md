@@ -1,3 +1,1 @@
-joyuan.github.com
-=================
-my blog site qianzhaoyuan.com
+This is my blog source based on Jekyll.The blog address is qianzhaoyuan.com. Welcome!!!
