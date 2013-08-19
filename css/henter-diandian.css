@@ -64,10 +64,10 @@ img::-moz-selection {background: none; width: 100%; }
 /* Theme Base */
 body {min-height:100%; height:auto !important; min-width: 450px;background:url(images/leftbg.png) repeat-y 0 0;}
 
-#container {position:relative;padding-left:111px;}
+#container {position:relative;padding-left:211px;}
 .ds-thread{width:50%;}
 /* left */
-.left {position:absolute;position:fixed;float:left;display:block; margin-left:-111px; width:111px;}
+.left {position:absolute;position:fixed;float:left;display:block; margin-left:-211px; width:211px;}
 .arrow {display:block;position:fixed;top:160px;left:193px;margin-top:-33px;width:50px;height:65px; background:url(images/left_arrow.png) no-repeat 0 0;}
 .left ul {list-style:none;}
 
