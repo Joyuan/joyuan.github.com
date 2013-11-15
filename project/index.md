@@ -25,4 +25,6 @@ layout: home
     </div>
     <div class="aside">
     </div>
+
+   <a href="/download/douban_dongxi.apk"> 豆瓣东西下载地址</a>
 </div>
