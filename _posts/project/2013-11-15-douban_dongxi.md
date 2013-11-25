@@ -8,7 +8,9 @@ description: 豆瓣东西是一个基于豆瓣的推荐好玩好看东西的Andr
 ![describe](\images\post\project\douban_dongxi\douban_dongxi_1.png)  
 ![describe](\images\post\project\douban_dongxi\douban_dongxi_2.png)  
 豆瓣东西下载地址  
-[本地下载](http://qianzhaoyuan.com/download/douban_dongxi.apk)[豌豆荚](http://www.wandoujia.com/apps/com.joyuan.douban.dongxi)
+[本地下载](http://qianzhaoyuan.com/download/douban_dongxi.apk)
+[豌豆荚](http://www.wandoujia.com/apps/com.joyuan.douban.dongxi)
+[Google Play](https://play.google.com/store/apps/details?id=com.joyuan.douban.dongxi)
 
 
 [1]:    {{ page.url}}  ({{ page.title }})
